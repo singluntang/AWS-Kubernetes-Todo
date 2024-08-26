@@ -1,4 +1,8 @@
-# This is a Joint project collaboration from Alan (Hong Kong) and Andrew (From Egypt)
+# This is a joint collaboration project from Alan (Hong Kong) and Andrew Emad Gabra (Egypt)
+
+The joint collaboration project is programmed within 2 parties, I Alan responsible for the backended and Andrew
+is responsible for the client side. 
+
 # Serverless TODO
 
 To implement this project, you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all comments starting with the `TODO:` in the code to find the placeholders that you need to implement.
